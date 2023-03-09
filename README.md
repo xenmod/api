@@ -4,4 +4,4 @@
 
 ## Requirements:
 * SourceMod 1.11 or higher
-* [RestInPawn 1.3.1](https://github.com/ErikMinekus/sm-ripext/releases/tag/1.3.1)
+* [REST In Pawn 1.3.1](https://github.com/ErikMinekus/sm-ripext/releases/tag/1.3.1)
